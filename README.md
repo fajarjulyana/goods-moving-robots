@@ -26,3 +26,7 @@ Bahan yang diperlukan
 
 ## Code
 https://github.com/fajarjulyana/goods-moving-robots/blob/59d23bf4ba1b2ace1297713535ca9328aea22255/src/code.cpp#L1-L20
+
+## Uji Cobanya 
+
+Masukkan barang yang akan dipindahkan ke dalam tempat yang sudah disediakan pada rangka robot. Kemudian, uji coba robot dengan menghidupkan Arduino board dan memastikan robot dapat bergerak secara lancar dan aman. benteng ujung adalah 
